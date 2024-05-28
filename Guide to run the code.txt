@@ -1,0 +1,5 @@
+go to this folder pathe in terminal 
+
+then write this command accepting image name which are present in image folder(see below)
+
+PS C:\Users\ak_vishwakarma_0\Desktop\Colorizing-black-and-white-images-using-Python-master> python colorize.py --image images/nature.jpg
